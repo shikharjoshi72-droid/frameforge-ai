@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/*.db
+data/*.db-*
+data/uploads/*
+generated/blackbooks/*.pdf
+!data/.gitkeep
+!generated/blackbooks/.gitkeep

@@ -13,7 +13,7 @@ It bridges the gap between screenplay writing and actual film production by conv
 
 | Feature | Description |
 |---|---|
-| 📄 Script Processing | Upload and process TXT, DOCX, and text-based PDF screenplays. |
+| 📄 Script Processing | Upload and process TXT , DOCX, and text-based PDF screenplays. |
 | 🧠 AI Script Analysis | Analyse screenplays using NVIDIA NIM, processing large scripts in manageable chunks. |
 | 🎬 Scene Breakdown | Extract scene numbers, headings, locations, time of day, characters, and production details. |
 | 👥 Character Register | Maintain character profiles, appearance counts, roles, and scene associations. |
